@@ -1,5 +1,5 @@
-# translater
-My translater!
+# translator
+My translator!
 
 Это программа-тренажер для изучения слов на иностранном языке! 
 
